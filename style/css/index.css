@@ -336,6 +336,7 @@ header span{
 	line-height: 40px;
 	display: block;
 	top: 0;
+	/* height: 39px; */
 	/* margin-bottom: 30px; */
 }
 .studyClassify>div>a:before {
@@ -664,20 +665,20 @@ header span{
 	height: 75px;
 	/* margin-right: 130px; */
 	color: #07465e;
-/* 	background: url(../img/service1.gif) no-repeat; */
+	/* background: url(../img/service1.gif) no-repeat; */
 }
 #service2>div div:nth-of-type(1):hover,
 #service2>div div:nth-of-type(3):hover,
 #service2>div div:nth-of-type(5):hover,
 #service2>div div:nth-of-type(7):hover{
 	color: #fff;
-/* 	background: url(../img/service2.gif) no-repeat; */
+	/* background: url(../img/service2.gif) no-repeat; */
 }
 #service2>div div:nth-of-type(2):hover,
 #service2>div div:nth-of-type(4):hover,
 #service2>div div:nth-of-type(6):hover{
 	color: #fff;
-/* 	background: url(../img/service4.gif) no-repeat; */
+	/* background: url(../img/service4.gif) no-repeat; */
 }
 #service2>div div:nth-of-type(2n){
 	margin-left: 150px;
