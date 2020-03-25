@@ -29,7 +29,7 @@ header div>ul>li>a{
 	color: #494a4d;
 }
 header #headDropDown{
-	display: none;
+	display: none！important;
 	position: absolute;
 	/* left: 20px; */
 	top: 56px;
