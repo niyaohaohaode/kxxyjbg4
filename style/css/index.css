@@ -67,6 +67,10 @@ header span{
 	header span{
 		display: block;
 	}
+	header #headDropDown{
+		display: none!important;
+		
+	}
 	header>div{
 		width: 100%!important;
 	}
